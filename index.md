@@ -16,7 +16,7 @@
 ## Work
 
 - Almost iota complexes as immersed curves (upcoming)
-- [On the Cantor Bernstein theorem for Borel graphs](works/borel_cantor_bernstein.pdf)
+- [The Cantor Bernstein theorem for Borel graphs](works/borel_cantor_bernstein.pdf)
 - [On the computation of the infinite variety of Heegaard Floer homology](works/surf2018.pdf)
 
 ## Teaching

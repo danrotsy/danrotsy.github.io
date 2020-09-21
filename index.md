@@ -7,11 +7,11 @@
 ## Research
 
 - ***Almost $\iota$-complexes as immersed curves with Professor Zemke at Princeton:*** *(2020)* 
-  I provided a new classification of almost $\iota$-complexes, and an algorithm to compute the product operation and local equivalence class representative of an almost $\iota$-complex. I hope to classify the homomorphisms to $\Z$ as well.
+  We provided a new classification of almost $\iota$-complexes, and an algorithm to compute the product operation and local equivalence class representative of an almost $\iota$-complex. We hope to classify the homomorphisms to $\Z$ as well.
 - ***Borel graphs and smooth game equilibria with Professor Kechris at Caltech:*** *(2019)*
-  I studied equilibria of incomplete information games and the Cantor Bernstein theorem for Borel graphs using countable Borel equivalence relations. 
+  We studied equilibria of incomplete information games and the Cantor Bernstein theorem for Borel graphs using countable Borel equivalence relations. 
 - ***Knot sliceness and computing $HFK^-$ with Professor Ni at Caltech:*** *(2018)* 
-  I studied the sliceness of cablings of the figure eight knot and computed $HFK^-$ for knots with up to 10 crossings. 
+  We studied the sliceness of cablings of the figure eight knot and computed $HFK^-$ for knots with up to 10 crossings. 
 
 ## Work
 

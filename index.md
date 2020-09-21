@@ -32,7 +32,6 @@
 
 - ***Caltech Math Club president***
 - ***Caltech Chess Club member***
-- ***CHMMC (Caltech Harvey Mudd Math Competition) problem writer***
 
 ## Code
 
